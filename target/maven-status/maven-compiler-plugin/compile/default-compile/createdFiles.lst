@@ -1,9 +1,9 @@
-com/example/minesweepersolvernew/Solver.class
-com/example/minesweepersolvernew/Board.class
+com/example/minesweepersolver/Main.class
 utils/Images/Color.class
 utils/StartingScene.class
-com/example/minesweepersolvernew/Main.class
+com/example/minesweepersolver/Board.class
+com/example/minesweepersolver/Controller.class
+com/example/minesweepersolver/Solver.class
 module-info.class
 utils/Images/ImageEffects.class
 utils/Images/Icons.class
-com/example/minesweepersolvernew/Controller.class

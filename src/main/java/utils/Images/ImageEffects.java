@@ -1,6 +1,5 @@
 package utils.Images;
 
-import com.example.minesweepersolvernew.Board;
 import javafx.scene.Node;
 import javafx.scene.image.ImageView;
 

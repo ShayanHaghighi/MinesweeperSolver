@@ -1,4 +1,4 @@
-package com.example.minesweepersolvernew;
+package com.example.minesweepersolver;
 
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
@@ -27,7 +27,6 @@ import java.io.IOException;
 import java.util.List;
 
 import utils.Images.Icons;
-import utils.Images.Icons.*;
 
 public class Main extends Application {
 

@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>MinesweeperSolverNew</artifactId>
+    <artifactId>MinesweeperSolver</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>MinesweeperSolverNew</name>
+    <name>MinesweeperSolver</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -58,7 +58,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.minesweepersolvernew.Main</mainClass>
+                            <mainClass>com.example.minesweepersolver.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -73,7 +73,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.minesweepersolvernew/com.example.minesweepersolvernew.Main
+                                com.example.minesweepersolver/com.example.minesweepersolver.Main
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

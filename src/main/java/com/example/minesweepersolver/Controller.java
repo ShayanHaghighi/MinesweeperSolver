@@ -1,4 +1,4 @@
-package com.example.minesweepersolvernew;
+package com.example.minesweepersolver;
 
 import javafx.scene.effect.ColorAdjust;
 import javafx.scene.input.KeyCode;

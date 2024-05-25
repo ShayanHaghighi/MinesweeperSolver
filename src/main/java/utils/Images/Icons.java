@@ -1,6 +1,6 @@
 package utils.Images;
 
-import com.example.minesweepersolvernew.Main;
+import com.example.minesweepersolver.Main;
 import javafx.scene.image.Image;
 
 import java.util.Objects;

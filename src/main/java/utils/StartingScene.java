@@ -1,7 +1,7 @@
 package utils;
 
-import com.example.minesweepersolvernew.Board;
-import com.example.minesweepersolvernew.Main;
+import com.example.minesweepersolver.Board;
+import com.example.minesweepersolver.Main;
 import javafx.beans.value.ChangeListener;
 import javafx.geometry.Pos;
 import javafx.geometry.Rectangle2D;
