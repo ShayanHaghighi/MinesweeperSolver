@@ -31,7 +31,7 @@ mvn package
 Run the application:
 
 ```bash
-    java --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.fxml -jar target/MinesweeperSolver-1.0-SNAPSHOT.jar
+java --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.fxml -jar target/MinesweeperSolver-1.0-SNAPSHOT.jar
 ```
 Replace $PATH_TO_FX with the path to your JavaFX's lib file.
 
